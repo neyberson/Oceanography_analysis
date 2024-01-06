@@ -1,0 +1,4 @@
+#Ignora los archivos netCDF
+*.netCDF
+*.nc
+*.nc.aux.xml
